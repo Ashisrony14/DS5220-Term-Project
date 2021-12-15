@@ -1,1 +1,2 @@
 # DS5220-Term-Project
+This  study  compares  accuracy  of  forecasting  between  several  ML  models for both univariate and multivariate forecasting of Temperature and Precipitation.  For multivariate forecasting,  related climate variables to temperature  and  precipitation  of  a  location  such  as  relative  humidity,  moisture  content  and  air  pressurewere  used.   The  model  was  trained  with  75  years  of  climate  variable  projections  and  forecasted  for  next25 years.  
